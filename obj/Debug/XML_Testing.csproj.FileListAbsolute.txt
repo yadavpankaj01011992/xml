@@ -1,0 +1,7 @@
+E:\XML_Testing\XML_Testing\obj\Debug\XML_Testing.csprojResolveAssemblyReference.cache
+E:\XML_Testing\XML_Testing\obj\Debug\XML_Testing.Properties.Resources.resources
+E:\XML_Testing\XML_Testing\obj\Debug\XML_Testing.csproj.GenerateResource.Cache
+E:\XML_Testing\XML_Testing\bin\Debug\XML_Testing.exe
+E:\XML_Testing\XML_Testing\bin\Debug\XML_Testing.pdb
+E:\XML_Testing\XML_Testing\obj\Debug\XML_Testing.exe
+E:\XML_Testing\XML_Testing\obj\Debug\XML_Testing.pdb

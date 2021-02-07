@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <product>
+    <Product_ID>1</Product_ID>
+    <Product_Name>product1</Product_Name>
+    <product_Price>1111</product_Price>
+  </product>
+  <product>
+    <Product_ID>2</Product_ID>
+    <Product_Name>product2</Product_Name>
+    <product_Price>2222</product_Price>
+  </product>
+  <product>
+    <Product_ID>3</Product_ID>
+    <Product_Name>product3</Product_Name>
+    <product_Price>3333</product_Price>
+  </product>
+  <product>
+    <Product_ID>4</Product_ID>
+    <Product_Name>product4</Product_Name>
+    <product_Price>4444</product_Price>
+  </product>
+</NewDataSet>

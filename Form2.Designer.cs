@@ -1,9 +1,9 @@
 ﻿namespace XML_Testing
 {
-    partial class Date_Time
+    partial class Form2
     {
-        /// <summary> 
-        /// Required designer variable.new changes available
+        /// <summary>
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Date_Time";
+            this.Text = "Form2";
         }
 
         #endregion
